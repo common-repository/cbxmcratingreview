@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+body.dragging, body.dragging * {
+	cursor: move !important;
+}
+
+.dragged {
+	position: absolute;
+	opacity: 0.5;
+	z-index: 2000;
+}
+
+/*rating form*/
+.cbxmcratingreview-form{
+
+}
+
+.btn-cbxmcratingreview-submit{
+	margin-bottom: 20px;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field{
+	margin-bottom: 10px;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field p{
+	margin-bottom: 5px;
+}
+.cbxmcratingreview-form .cbxmcratingreview-form-field p.error{
+	color: red;
+	font-size: 14px;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field input.error, textarea.error{
+	border: 1px solid red;
+	color: red;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field label{
+	width: 100%;
+	font-size: 14px;
+	line-height: 18px;
+	display: block;
+}
+.cbxmcratingreview-form .cbxmcratingreview-form-field label.sr-only{
+	display: none;
+}
+
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field .cbxmcratingreview-form-field-input{
+
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field  .cbxmcratingreview-form-field-input-text{
+	padding: 5px;
+	font-size: 14px;
+	line-height: 18px;
+	width: 100%;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field  .cbxmcratingreview-form-field-input-textarea{
+	padding: 5px;
+	font-size: 14px;
+	line-height: 18px;
+	width: 100%;
+}
+
+.cbxmcratingreview-form .cbxmcratingreview-form-field  .cbxmcratingreview-form-field-input-vtextarea{
+
+}
+
+.cbxmcratingreview-form-field-map-canvas{
+	width: 100%;
+	height: 300px;
+}
+
+
+
+.cbxmcratingreview_review_display_none {
+	display: none;
+}
+
+.cbxmcratingreview_review_display_block {
+	display: block;
+}
+
+.cbxmcratingreview-alert{
+	font-weight: bold;
+}
+
+/*custom criteria*/
+.cbxmcratingreview_review_custom_criterias{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.cbxmcratingreview_review_custom_criteria{
+	list-style: none;
+	display: inline-block;
+	margin: 0 20px 0px 0;
+	padding: 5px;
+	padding-left: 0px;
+}
+.cbxmcratingreview_review_custom_criteria:last-child{
+	margin-right: 0px;
+}
+.cbxmcratingreview_review_custom_criteria p{
+	margin-bottom: 5px;
+}
+/*end custom criteria*/
+
+/*custom questions*/
+.cbxmcratingreview_review_custom_questions{
+
+}
+.cbxmcratingreview_review_custom_question{
+	margin-bottom: 15px;
+}
+.cbxmcratingreview_review_custom_question select{
+	width: 100%;
+}
+/*end custom questions*/

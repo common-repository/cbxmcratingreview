@@ -1,0 +1,278 @@
+.cbxclear{
+	clear: both;
+}
+.disable_field {
+	display: none;
+}
+/*tab style*/
+.ratingtabgroup {
+	padding: 10px;
+}
+
+#poststuff h2.nav-tab-wrapper {
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.nav-tab-active {
+	background-color: #fff;
+}
+
+#wpbody-content .metabox-holder {
+	padding-top: 0px !important;
+}
+#cbxmcratingreview-ratingadminform .nav-tab-wrapper .nav-tab-active {
+	border-bottom: 1px solid #0085ba !important;
+	border-top: 2px solid #0085ba;
+	background: #0085ba;
+	color: #fff;
+}
+
+
+.form-item {
+	padding: 9px 0;
+	margin: 0 0 10px;
+}
+
+.form-radios .form-item {
+	padding: 0;
+}
+
+.form-item label {
+	margin: 0;
+	padding: 0;
+	/* display: block; */
+	font-weight: bold;
+	cursor: default;
+}
+
+.form-item label.option {
+	text-transform: none;
+	display: inline;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+
+.form-type-checkbox {
+	padding: 0;
+	margin: 5px 0;
+	padding: 2px 5px;
+	background: #eee;
+}
+
+.form-item-custom-criteria-star{
+
+}
+
+.form-item-custom-criteria-star-placeholder{
+	border: 1px dashed #ccc;
+	background-color: #fff;
+	height: 24px;
+	margin: 5px 0;
+	padding: 2px 5px;
+}
+
+.form-item-select-post-type {
+	width: 250px;
+	max-height: 300px;
+	height: 100px !important;
+}
+
+.form-item input.error, .form-item textarea.error, .form-item select.error {
+	border: 2px solid red;
+}
+
+input.form-checkbox, input.form-radio {
+	vertical-align: middle;
+}
+
+
+input.form-autocomplete, input.form-text, input.form-file, textarea.form-textarea, select.form-select {
+	padding: 2px;
+	border: 1px solid #CCC;
+	border-top-color: #999;
+	background: white;
+	color: #333;
+}
+
+
+.edit-custom-criteria-fields-wrapper {
+	overflow: auto;
+}
+
+.custom-criteria-wrapper {
+	background-color: #E2E2E2;
+	margin-bottom:5px;
+	padding: 5px;
+	width: 80%;
+}
+
+.custom-criteria-wrapper .custom-criteria-wrapper_inside{
+	display: none;
+	background-color: #f9f9f9;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+.custom-criteria-enable-checkbox {
+	float: left;
+	margin: 4px !important;
+}
+
+.form-item-custom-criteria-label {
+	float: left;
+	display: inline-block;
+}
+.edit-custom-criteria-label-text-star{
+	padding: 2px 5px !important;
+	font-size: 12px;
+	line-height: 16px;
+}
+
+.custom-criteria-enable-checkbox{
+	float: left; display: inline-block;
+}
+
+
+.tools-star-block, .wp-core-ui .tools-star-block{
+	float: left;
+	display: inline-block;
+	padding: 2px !important;
+	margin-left: 10px;
+}
+
+.tools-star-block:before, .wp-core-ui .tools-star-block:before{
+	content: '\f111';
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font-family: 'Dashicons';
+	vertical-align: top;
+	line-height: 16px;
+	font-size: 16px;
+}
+
+.cbxmcratingreview_add_criteria, .wp-core-ui .add-new-criteria-total-block{
+
+}
+
+/*Custom questions*/
+.custom-question-table{
+	display: table;
+	width: 95%;
+}
+
+.custom-question-table-row{
+	display: table-row;
+}
+.custom-question-table-row-header{
+
+}
+
+.custom-question-table-col .regular-text{
+	width: 100%;
+}
+.custom-question-table-col .question-option-label-box .regular-text{
+	width: auto;
+}
+
+.custom-question-table-col{
+	display: table-cell;
+	padding: 20px 20px;
+}
+.custom-question-table-col-header{
+	text-align: left;
+	padding: 20px 20px;
+}
+
+.custom-question-table-row-header{
+	background: rgba(227,227,227,1);
+	background: -moz-linear-gradient(top, rgba(227,227,227,1) 0%, rgba(219,219,219,1) 47%, rgba(212,212,212,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(227,227,227,1)), color-stop(47%, rgba(219,219,219,1)), color-stop(100%, rgba(212,212,212,1)));
+	background: -webkit-linear-gradient(top, rgba(227,227,227,1) 0%, rgba(219,219,219,1) 47%, rgba(212,212,212,1) 100%);
+	background: -o-linear-gradient(top, rgba(227,227,227,1) 0%, rgba(219,219,219,1) 47%, rgba(212,212,212,1) 100%);
+	background: -ms-linear-gradient(top, rgba(227,227,227,1) 0%, rgba(219,219,219,1) 47%, rgba(212,212,212,1) 100%);
+	background: linear-gradient(to bottom, rgba(227,227,227,1) 0%, rgba(219,219,219,1) 47%, rgba(212,212,212,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e3e3e3', endColorstr='#d4d4d4', GradientType=0 );
+}
+
+.custom-question-table-row-item{
+
+
+	display: table-row;
+}
+.custom-question-table-col-title{
+	border-right: 1px solid rgba(227,227,227,1);
+	border-left: 1px solid rgba(227,227,227,1);
+	border-bottom: 1px solid rgba(227,227,227,1);
+}
+.custom-question-table-col-control{
+
+}
+.custom-question-table-col-type{
+
+}
+.custom-question-table-col-preview, .custom-question-table-col-type, .custom-question-table-col-control, .custom-question-table-col-actions{
+	border-right: 1px solid rgba(227,227,227,1);
+	border-bottom: 1px solid rgba(227,227,227,1);
+}
+
+.question-option-label-boxes{
+	width: 100%;
+	border: 1px solid #ccc;
+	border-bottom: 0px;
+}
+.question-option-label-box{
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+}
+
+/*end custom questions*/
+
+/* X-3 SMALL DEVICES, TABLETS */
+@media screen and (max-width: 782px) {
+	.custom-criteria-wrapper {
+		box-sizing: border-box;
+		margin-bottom:5px;
+		padding: 5px;
+		width: 100%;
+	}
+
+	.tools-star-block, .wp-core-ui .tools-star-block{
+		width: 30px;
+		height: 30px;
+		padding: 0px !important;
+		background: none !important;
+		box-shadow: none !important;
+		border: 0 none !important;
+		margin:3px 4px 5px 4px;
+	}
+
+	.tools-star-block:before, .wp-core-ui .tools-star-block:before{
+		font-size: 30px;
+		line-height: 30px;
+	}
+	.form-item-custom-criteria-label{
+		margin:3px 4px 5px 4px;
+
+	}
+
+	.form-item-custom-criteria-label .form-text{
+		font-size:17px;
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+	.form-item-custom-criteria-label{
+		float: left;
+		clear: left;
+		margin: 3px 0px 5px 0px;
+		width: 100%;
+	}
+	.form-item-custom-criteria-label .form-text{
+		width: 100%;
+	}
+}

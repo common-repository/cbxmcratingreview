@@ -1,0 +1,2162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Single Criteria Rating & Review System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-04 09:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxmcratingreview-admin.php:98
+msgid "General"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:102
+msgid "Email Template"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:106
+msgid "Review Email"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:110
+msgid "Pages & Tools"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:148
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:151
+msgid "Following database tables will be reset/deleted and then re-created."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:160
+msgid ""
+"Following option values created by this plugin(including addon) from "
+"wordpress core option table"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:171
+msgid ""
+"Following meta key created by this plugin(including addon) from wordpress "
+"core post meta table"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:182
+#, php-format
+msgid ""
+"Please read the <a target=\"_blank\" href=\"%s\">migration guide</a> before "
+"migrate"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:200
+msgid "Default Rating Form"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:201
+msgid "Please choose default rating form. "
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:205
+#: widgets/cbxmcratingreviewlratings/views/admin.php:28
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:29
+msgid "Select Form"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:253
+msgid "Allow Review Delete"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:254
+msgid "Allow user delete review from frontend"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:258
+#: admin/class-cbxmcratingreview-admin.php:269
+#: admin/class-cbxmcratingreview-admin.php:288
+#: admin/class-cbxmcratingreview-admin.php:299
+#: admin/class-cbxmcratingreview-admin.php:310
+#: admin/class-cbxmcratingreview-admin.php:321
+#: admin/class-cbxmcratingreview-admin.php:333
+#: admin/class-cbxmcratingreview-admin.php:359
+#: admin/class-cbxmcratingreview-admin.php:787
+#: includes/class-cbxmcratingreview-helper.php:3346
+#: includes/class-cbxmcratingreview-helper.php:3358
+#: includes/class-cbxmcratingreview-helper.php:3370
+#: includes/class-cbxmcratingreview-helper.php:3426
+#: includes/class-cbxmcratingreview-helper.php:3606
+#: includes/class-cbxmcratingreview-helper.php:3606
+#: includes/class-cbxmcratingreview-helper.php:3609
+#: includes/class-cbxmcratingreview-helper.php:3609
+#: includes/class-cbxmcratingreview-helper.php:3614
+#: includes/class-cbxmcratingreview-helper.php:3614
+#: includes/class-cbxmcratingreviewquestion-helper.php:533
+msgid "Yes"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:259
+#: admin/class-cbxmcratingreview-admin.php:270
+#: admin/class-cbxmcratingreview-admin.php:289
+#: admin/class-cbxmcratingreview-admin.php:300
+#: admin/class-cbxmcratingreview-admin.php:311
+#: admin/class-cbxmcratingreview-admin.php:322
+#: admin/class-cbxmcratingreview-admin.php:334
+#: admin/class-cbxmcratingreview-admin.php:360
+#: admin/class-cbxmcratingreview-admin.php:788
+#: includes/class-cbxmcratingreview-helper.php:3347
+#: includes/class-cbxmcratingreview-helper.php:3359
+#: includes/class-cbxmcratingreview-helper.php:3371
+#: includes/class-cbxmcratingreview-helper.php:3427
+#: includes/class-cbxmcratingreview-helper.php:3607
+#: includes/class-cbxmcratingreview-helper.php:3607
+#: includes/class-cbxmcratingreview-helper.php:3610
+#: includes/class-cbxmcratingreview-helper.php:3610
+#: includes/class-cbxmcratingreview-helper.php:3615
+#: includes/class-cbxmcratingreview-helper.php:3615
+#: includes/class-cbxmcratingreviewquestion-helper.php:533
+msgid "No"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:264
+msgid "Allow Half Rating"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:265
+msgid ""
+"If half rating enabled, user can rate .5, 1.5, 2.5, 3.5, 4.5 with regular 1, "
+"2,3,4,5 values."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:275
+msgid "Default Review Status"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:276
+msgid "What will be status when a new review is written?"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:283
+msgid "Show Headline"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:284
+msgid "Show/hide review headline in rating form"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:294
+msgid "Headline Required"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:295
+msgid "Is headline mandatory to write a review?"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:305
+msgid "Show Comment"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:306
+msgid "Show/hide comment in rating form"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:316
+msgid "Comment Required"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:317
+msgid "Is comment mandatory to write a review?"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:328
+msgid "Enable Positive/Critical Score"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:329
+msgid "Enable positivive or critial score functionality"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:339
+msgid "Positve Review Score value"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:340
+msgid "Select minimum score value for a positive review"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:347
+msgid "Reviews Per Page"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:348
+msgid "Default number of reviews per page in pagination"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:354
+msgid "Show Review Filter"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:355
+msgid "Show filter box in review listing"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:370
+msgid "Header Image"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:371
+msgid ""
+"Url To email you want to show as email header.Upload Image by media uploader."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:377
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:378
+msgid ""
+"The text to appear at the email footer. Syntax available - <code>{sitename}"
+"</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:384
+msgid "Base Color"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:385
+msgid "The base color of the email."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:391
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:392
+msgid "The background color of the email."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:398
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:399
+msgid "The background colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:405
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:406
+msgid "The body text colour of the main body of email."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:422
+#: admin/class-cbxmcratingreview-admin.php:525
+#: admin/class-cbxmcratingreview-admin.php:617
+msgid "On/Off"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:423
+msgid "Alert Status"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:429
+#: admin/class-cbxmcratingreview-admin.php:532
+#: admin/class-cbxmcratingreview-admin.php:624
+msgid "E-mail Format"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:430
+#: admin/class-cbxmcratingreview-admin.php:533
+#: admin/class-cbxmcratingreview-admin.php:625
+msgid "Select the format of the E-mail."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:434
+#: admin/class-cbxmcratingreview-admin.php:537
+#: admin/class-cbxmcratingreview-admin.php:629
+msgid "HTML"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:435
+#: admin/class-cbxmcratingreview-admin.php:538
+#: admin/class-cbxmcratingreview-admin.php:630
+msgid "Plain"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:436
+#: admin/class-cbxmcratingreview-admin.php:539
+#: admin/class-cbxmcratingreview-admin.php:631
+msgid "Multipart/mixed(attachment)"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:441
+#: admin/class-cbxmcratingreview-admin.php:544
+#: admin/class-cbxmcratingreview-admin.php:636
+msgid "From Name"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:442
+msgid "Name of sender. Syntax available - <code>{sitename}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:448
+#: admin/class-cbxmcratingreview-admin.php:551
+#: admin/class-cbxmcratingreview-admin.php:643
+msgid "From Email"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:449
+#: admin/class-cbxmcratingreview-admin.php:552
+#: admin/class-cbxmcratingreview-admin.php:644
+msgid "From Email Address."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:455
+#: admin/class-cbxmcratingreview-admin.php:558
+#: admin/class-cbxmcratingreview-admin.php:650
+msgid "To Email"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:456
+msgid "To Email Address."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:463
+#: admin/class-cbxmcratingreview-admin.php:565
+#: admin/class-cbxmcratingreview-admin.php:657
+msgid "Reply To"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:464
+msgid "Reply To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:470
+msgid "Subject"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:471
+msgid "Email Subject."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:473
+#: admin/class-cbxmcratingreview-admin.php:575
+#: includes/class-cbxmcratingreview-emailalert.php:33
+#: includes/class-cbxmcratingreview-emailalert.php:120
+msgid "New Review Notification"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:477
+msgid "Heading"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:478
+msgid "Email Template heading."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:480
+#: admin/class-cbxmcratingreview-admin.php:583
+#: includes/class-cbxmcratingreview-emailalert.php:34
+#: includes/class-cbxmcratingreview-emailalert.php:121
+msgid "New Review"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:484
+msgid "Body"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:485
+msgid ""
+"Email Body.  Syntax available - <code>{score}, {headline}, {comment}, "
+"{status}, {post_url}, {review_edit_url}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:504
+msgid "CC"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:505
+msgid "Email CC, for multiple use comma."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:511
+msgid "BCC"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:512
+msgid "Email BCC, for multiple use comma"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:526
+#: admin/class-cbxmcratingreview-admin.php:618
+msgid "Status of Email"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:545
+#: admin/class-cbxmcratingreview-admin.php:637
+msgid "Name of sender.  Syntax available - <code>{sitename}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:559
+#: admin/class-cbxmcratingreview-admin.php:651
+msgid "To Email Address. Syntax available - <code>{user_email}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:566
+#: admin/class-cbxmcratingreview-admin.php:658
+msgid "Reply To Email Address."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:572
+msgid "New Review Email Subject"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:573
+msgid "Email subject user will receive when they make an initial review."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:580
+msgid "New Review Email Heading"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:581
+msgid "Email heading user will receive when they make an initial review."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:587
+msgid "New Review Email Body"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:588
+msgid ""
+"Email content user will receive when they make an initial review. Syntax "
+"available - <code>{user_name}, {user_email}, {score}, {headline}, {comment}, "
+"{status}, {post_url}"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:664
+msgid "Review Status Modification Email Subject"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:665
+msgid "Email subject user will receive when admin modify review status."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:667
+#: includes/class-cbxmcratingreview-emailalert.php:190
+msgid "Review Status Change Notification"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:671
+msgid "Review Status Modification Email Heading"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:672
+msgid "Email heading user will receive when admin modify review status."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:674
+#: includes/class-cbxmcratingreview-emailalert.php:191
+msgid "Review Status Changed"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:678
+msgid "Review Status Modification Email Body"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:679
+msgid ""
+"Email content user will receive when admin modified review status. Syntax "
+"available - <code>{user_name}, {score}, {headline}, {comment}, {status}, "
+"{post_url}</code>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:702
+#: admin/class-cbxmcratingreview-admin.php:703
+#: admin/class-cbxmcratingreview-admin.php:704
+msgid ""
+"<strong>Please note, selected page doesn't have the shortcode. Please edit "
+"the page and add the shortcode.</strong>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:711
+#: admin/class-cbxmcratingreview-admin.php:720
+#: admin/class-cbxmcratingreview-admin.php:729
+#, php-format
+msgid ""
+"<strong>Shortcode detected on the selected page.</strong>. <a class=\"button "
+"button-secondary\" target=\"_blank\" href=\"%s\">Browse</a> the page on "
+"frontend."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:737
+msgid "Frontend Single Review View Page"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:738
+msgid ""
+"Select page which will show the single review dynamically. That page must "
+"have the shortcode <code>[cbxmcratingreview_singlereview]</code>."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:745
+msgid "Frontend Single Review Edit Page"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:746
+msgid ""
+"Select page which will show the single review edit dynamically. That page "
+"must have the shortcode <code>[cbxmcratingreview_editreview]</code>."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:753
+msgid "Frontend User Dashboard"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:754
+msgid ""
+"Select page which will show the the logged in user's dashboard to manage "
+"rating and reviews. That page must have the shortcode <code>"
+"[cbxmcratingreview_userdashboard]</code>."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:783
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:784
+msgid ""
+"Delete Global Config data and custom table created by this plugin on "
+"uninstall."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:784
+msgid ""
+"Details table information is <a href=\"#cbxmcratingreview_info\">here</a>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:784
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:794
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:795
+#, php-format
+msgid ""
+"Reset option values and all tables created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:796
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:802
+msgid "Old Plugin Migration"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:803
+#, php-format
+msgid ""
+"Migrate data from old Rating Plugin to New.  \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Migrate Data</a>"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:804
+msgid ""
+"Are you sure to migrate data from old rating plugin, this process can not be "
+"undone unless you delete manually from new plugin?"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:928
+msgid "Unknown star"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:936
+#: includes/class-cbxmcratingreview-helper.php:296
+#: includes/class-cbxmcratingreview-helper.php:2915
+#: includes/class-cbxmcratingreview-helper.php:2938
+#: includes/class-cbxmcratingreview-helper.php:2961
+msgid "Worst"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:939
+#: includes/class-cbxmcratingreview-helper.php:279
+#: includes/class-cbxmcratingreview-helper.php:297
+#: includes/class-cbxmcratingreview-helper.php:2918
+#: includes/class-cbxmcratingreview-helper.php:2941
+#: includes/class-cbxmcratingreview-helper.php:2964
+msgid "Bad"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:942
+#: includes/class-cbxmcratingreview-helper.php:298
+#: includes/class-cbxmcratingreview-helper.php:2921
+#: includes/class-cbxmcratingreview-helper.php:2944
+#: includes/class-cbxmcratingreview-helper.php:2967
+msgid "Not Bad"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:945
+#: includes/class-cbxmcratingreview-helper.php:282
+#: includes/class-cbxmcratingreview-helper.php:299
+#: includes/class-cbxmcratingreview-helper.php:2924
+#: includes/class-cbxmcratingreview-helper.php:2947
+#: includes/class-cbxmcratingreview-helper.php:2970
+msgid "Good"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:948
+#: includes/class-cbxmcratingreview-helper.php:300
+#: includes/class-cbxmcratingreview-helper.php:2927
+#: includes/class-cbxmcratingreview-helper.php:2950
+#: includes/class-cbxmcratingreview-helper.php:2973
+msgid "Best"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1144
+msgid "Unknown User"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1226
+#, php-format
+msgid ""
+"%d forms and %d reviews migrated. Migrated reviews are all put as non "
+"published mode. Please go to <a href=\"%s\">reviews</a> and publish the "
+"migrated reviews as need. Rating avg is updated only when reviews are "
+"published."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1299
+msgid ""
+"CBX Multi Criteria Rating & Review System plugin data has been reset which "
+"all setting, database table, meta keys related with this plugin are deleted, "
+"setting and database table recreated. "
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1339
+msgid "CBX Multi Criteria Rating & Review: Log Manager"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1339
+msgid "CBX Reviews"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1348
+msgid "Rating Form Listing"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1348
+msgid "Rating Forms"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1359
+msgid "CBX Multi Criteria Rating & Review: Average Log Manager"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1359
+msgid "Rating Average"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1376
+msgid "Setting"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1416
+#: admin/class-cbxmcratingreview-admin.php:1446
+#: admin/class-cbxmcratingreview-admin.php:1495
+msgid "Number of items per page"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1629
+#: admin/class-cbxmcratingreview-admin.php:1667
+#: public/class-cbxmcratingreview-public.php:672
+#: public/class-cbxmcratingreview-public.php:709
+msgid "Cancel this rating!"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1631
+#: admin/class-cbxmcratingreview-admin.php:1669
+#: public/class-cbxmcratingreview-public.php:674
+#: public/class-cbxmcratingreview-public.php:711
+msgid "Not rated yet!"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1635
+#: public/class-cbxmcratingreview-public.php:678
+msgid "This field is required."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1636
+#: public/class-cbxmcratingreview-public.php:679
+msgid "Please fix this field."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1637
+#: public/class-cbxmcratingreview-public.php:680
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1638
+#: public/class-cbxmcratingreview-public.php:681
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1639
+#: public/class-cbxmcratingreview-public.php:682
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1640
+#: public/class-cbxmcratingreview-public.php:683
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1641
+#: public/class-cbxmcratingreview-public.php:684
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1642
+#: public/class-cbxmcratingreview-public.php:685
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1643
+#: public/class-cbxmcratingreview-public.php:686
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1644
+#: public/class-cbxmcratingreview-public.php:687
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1645
+#: public/class-cbxmcratingreview-public.php:688
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1646
+#: public/class-cbxmcratingreview-public.php:689
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1647
+#: public/class-cbxmcratingreview-public.php:690
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1648
+#: public/class-cbxmcratingreview-public.php:691
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1649
+#: public/class-cbxmcratingreview-public.php:692
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1650
+#: public/class-cbxmcratingreview-public.php:693
+msgid "Please check the captcha."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1651
+#: public/class-cbxmcratingreview-public.php:694
+msgid "Please select at least one option"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1658
+#: admin/class-cbxmcratingreview-admin.php:1674
+#: public/class-cbxmcratingreview-public.php:700
+msgid "Drag and Sort"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1672
+#: public/class-cbxmcratingreview-public.php:720
+msgid "Sorry! delete failed!"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1673
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:175
+#: includes/class-cbxmcratingreview-rating-forms.php:182
+#: includes/class-cbxmcratingreview-review-logs.php:350
+#: public/class-cbxmcratingreview-public.php:719
+msgid "Delete"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1675
+msgid "Ok"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1676
+msgid "Cancel"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1677
+msgid "Sorry! Some problem during deletion."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1974
+#: public/class-cbxmcratingreview-public.php:1281
+msgid "Sorry! Invalid review id. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1978
+#: public/class-cbxmcratingreview-public.php:1285
+msgid "Sorry! Invalid review. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:1983
+#: public/class-cbxmcratingreview-public.php:943
+#: public/class-cbxmcratingreview-public.php:1295
+msgid "Sorry! Invalid post. Please check and try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2026
+#: admin/class-cbxmcratingreview-admin.php:2030
+#: public/class-cbxmcratingreview-public.php:986
+#: public/class-cbxmcratingreview-public.php:990
+#: public/class-cbxmcratingreview-public.php:1339
+#: public/class-cbxmcratingreview-public.php:1343
+#, php-format
+msgid ""
+"Sorry! Invalid rating score for criteria <strong>%s</strong>. Please check "
+"and try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2037
+#: public/class-cbxmcratingreview-public.php:997
+#: public/class-cbxmcratingreview-public.php:1350
+msgid ""
+"Sorry! Invalid rating score or no rating selected. Please check and try "
+"again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2051
+#: includes/class-cbxmcratingreviewquestion-helper.php:338
+#: includes/class-cbxmcratingreviewquestion-helper.php:365
+#: includes/class-cbxmcratingreviewquestion-helper.php:394
+#: includes/class-cbxmcratingreviewquestion-helper.php:418
+#: includes/class-cbxmcratingreviewquestion-helper.php:444
+#: includes/class-cbxmcratingreviewquestion-helper.php:472
+#: includes/class-cbxmcratingreviewquestion-helper.php:501
+#: includes/class-cbxmcratingreviewquestion-helper.php:526
+#: includes/class-cbxmcratingreviewquestion-helper.php:550
+#: includes/class-cbxmcratingreviewquestion-helper.php:590
+#: includes/class-cbxmcratingreviewquestion-helper.php:638
+#: includes/class-cbxmcratingreviewquestion-helper.php:669
+#: includes/class-cbxmcratingreviewquestion-helper.php:703
+#: includes/class-cbxmcratingreviewquestion-helper.php:761
+#: public/class-cbxmcratingreview-public.php:1011
+#: public/class-cbxmcratingreview-public.php:1363
+#, php-format
+msgid "Untitled Question %d"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2062
+#: public/class-cbxmcratingreview-public.php:1022
+#: public/class-cbxmcratingreview-public.php:1374
+#, php-format
+msgid ""
+"Sorry! Question <strong>%s</strong> is blank but required. Please check and "
+"try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2070
+#: admin/class-cbxmcratingreview-admin.php:2079
+#: admin/class-cbxmcratingreview-admin.php:2094
+#: public/class-cbxmcratingreview-public.php:1026
+#: public/class-cbxmcratingreview-public.php:1032
+#: public/class-cbxmcratingreview-public.php:1044
+#: public/class-cbxmcratingreview-public.php:1378
+#: public/class-cbxmcratingreview-public.php:1384
+#: public/class-cbxmcratingreview-public.php:1396
+#, php-format
+msgid ""
+"Sorry! Question <strong>%s</strong> is not answered but required. Please "
+"check and try again."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2105
+#: public/class-cbxmcratingreview-public.php:1055
+#: public/class-cbxmcratingreview-public.php:1407
+msgid "Please provide title"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2108
+#: public/class-cbxmcratingreview-public.php:1059
+#: public/class-cbxmcratingreview-public.php:1410
+msgid "Please provide review"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2113
+#: public/class-cbxmcratingreview-public.php:1063
+#: public/class-cbxmcratingreview-public.php:1415
+msgid "You aren't currently logged in. Please login to rate."
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2221
+#: public/class-cbxmcratingreview-public.php:1512
+msgid "Review updated successfully"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2305
+msgid "Sorry, in free version only one form can be created"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2349
+#, php-format
+msgid " Field \"%s\" minimum allowed value %f"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2354
+#, php-format
+msgid " Field \"%s\" maximum allowed value %f"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2397
+#, php-format
+msgid "Criteria %d"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2437
+#, php-format
+msgid "Criteria \"%s\" must have at least one star"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2466
+msgid "The form must have at least one criteria"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2507
+msgid "Untitled Option"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2524
+msgid "One of your question title or option title field is empty"
+msgstr ""
+
+#: admin/class-cbxmcratingreview-admin.php:2561
+msgid "Form save failed. Please check all fields are filled properly."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-emailalert.php:50
+#: includes/class-cbxmcratingreview-emailalert.php:54
+#: includes/class-cbxmcratingreview-emailalert.php:140
+#: includes/class-cbxmcratingreview-emailalert.php:211
+msgid "</a>"
+msgstr ""
+
+#. %s template
+#: includes/class-cbxmcratingreview-functions.php:595
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:57
+msgid "Built in post types"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:140
+#: includes/class-cbxmcratingreview-helper.php:155
+msgid "Guest"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:177
+msgid "now"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:182
+msgid "just now"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:185
+msgid "1 minute ago"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:188
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:191
+msgid "1 hour ago"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:198
+msgid "Yesterday"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:201
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:204
+#, php-format
+msgid "%s weeks ago"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:207
+msgid "last month"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:216
+msgid "in a minute"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:219
+#, php-format
+msgid "in %s minutes"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:222
+msgid "in an hour"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:225
+#, php-format
+msgid "in %s hours"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:229
+msgid "Tomorrow"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:235
+msgid "next week"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:238
+#, php-format
+msgid "in %s weeks"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:241
+msgid "next month"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:280
+msgid "Poor"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:281
+msgid "Regular"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:283
+msgid "Gorgeous"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:322
+#: includes/class-cbxmcratingreview-helper.php:3235
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:323
+#: includes/class-cbxmcratingreview-helper.php:3234
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:337
+msgid "Unverified"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:338
+msgid "Verified"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:339
+msgid "Pending"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:340
+msgid "Published"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:341
+msgid "Unpublished"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:342
+msgid "Spam"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:354
+msgid "1 or above"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:355
+msgid "2 or above"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:356
+msgid "3 or above"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:357
+msgid "4 or above"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:358
+msgid "5"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:371
+msgid "Post rating avg"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:372
+msgid "Post total Rating/reviews count"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:405
+msgid "Rating Form Table"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:406
+msgid "Review Log Table"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:407
+msgid "Review Avg Table"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:508
+msgid "Please login to edit review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:531
+#: public/class-cbxmcratingreview-public.php:1289
+msgid "Are you cheating, huh ?"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:542
+msgid "Sorry, you can edit only pending or published review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2813
+msgid "View settings"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2813
+msgid "Settings"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2910
+msgid "Untitled criteria - 0"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2933
+msgid "Untitled criteria - 1"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2956
+msgid "Untitled criteria - 2"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2990
+msgid "Sample Question Title"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:2993
+#: includes/class-cbxmcratingreview-helper.php:3078
+#: includes/class-cbxmcratingreview-helper.php:3088
+#: includes/class-cbxmcratingreview-helper.php:3098
+msgid "Write here"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3075
+msgid "Sample Single line Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3085
+msgid "Sample Multiline Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3095
+msgid "Sample Number Field Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3108
+msgid "Sample Checkbox Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3117
+msgid "Sample Multi Checkbox Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3123
+#: includes/class-cbxmcratingreview-helper.php:3149
+#: includes/class-cbxmcratingreview-helper.php:3168
+msgid "Option 0"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3124
+#: includes/class-cbxmcratingreview-helper.php:3150
+#: includes/class-cbxmcratingreview-helper.php:3169
+msgid "Option 1"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3125
+#: includes/class-cbxmcratingreview-helper.php:3151
+#: includes/class-cbxmcratingreview-helper.php:3170
+msgid "Option 2"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3126
+#: includes/class-cbxmcratingreview-helper.php:3152
+#: includes/class-cbxmcratingreview-helper.php:3171
+msgid "Option 3"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3127
+#: includes/class-cbxmcratingreview-helper.php:3153
+#: includes/class-cbxmcratingreview-helper.php:3172
+msgid "Option 4"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3143
+msgid "Sample Radio Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3160
+msgid "Sample Select Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3190
+msgid "Single Line Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3191
+msgid "Multi Line Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3192
+msgid "Number Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3193
+msgid "Radio Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3194
+msgid "Dropdown Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3195
+msgid "Checkbox Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3196
+msgid "Multi Checkbox Field"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3216
+msgid "Form Title"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3217
+msgid "Write rating form name"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3219
+msgid "Example Rating Form"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3220
+msgid "Rating Form Name"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3224
+msgid "Form title missing or empty, maximum length 500, minimum length 5"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3228
+msgid "Form Status"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3229
+msgid "Enable disable the form"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3281
+msgid "Post Type Support"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3282
+msgid ""
+"Which post types can have the rating & review features. Please make sure "
+"multiple form is not associated with same post type for best performance."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3286
+#: includes/class-cbxmcratingreview-helper.php:3334
+msgid "Choose post type(s)..."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3289
+#: includes/class-cbxmcratingreview-helper.php:3336
+msgid "Post type is missing or at least one post type must be selected"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3294
+msgid "Who Can give Rate & Review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3295
+msgid "Which user role will have vote capability"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3297
+#: includes/class-cbxmcratingreview-helper.php:3309
+msgid "Choose User Group ..."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3302
+#: includes/class-cbxmcratingreview-helper.php:3314
+msgid "User role missing or at least one user role must be selected"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3306
+msgid "Who Can View Rating & Review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3307
+msgid "Which user role will have view capability"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3318
+msgid "Enable Auto Integration"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3319
+msgid ""
+"Enable/disable auto integration, ie, add average rating before post content "
+"in archive, in details article mode add average rating information before "
+"content, rating form & review listing after content"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3323
+#: includes/class-cbxmcratingreview-rating-forms.php:119
+msgid "On"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3324
+#: includes/class-cbxmcratingreview-rating-forms.php:119
+msgid "Off"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3329
+msgid "Auto Integration for Post Type"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3330
+msgid ""
+"Enable which post types will have auto integration features. Please note "
+"that selected post types should be within the post types selected for "
+"<strong>Post Type Support</strong>"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3340
+msgid "Show on Single"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3341
+msgid ""
+"Enable disable for single article(post, page or any custom post type), "
+"related with auto integration."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3352
+msgid "Show on Home/Frontpage"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3353
+msgid "Enable disable for home/frontpage, related with auto integration."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3364
+msgid "Show on Archives"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3365
+msgid "Enable disable for archive pages, related with auto integration."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3420
+msgid "Enable Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3421
+msgid "Enable Question with Rating"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3429
+msgid "Enable question field is missing or value must be 0 or 1"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3592
+msgid "Untitled Question"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3592
+#: includes/class-cbxmcratingreview-helper.php:3597
+msgid "Click to edit"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3605
+msgid "Required Question ?"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3608
+msgid "Show Question ?"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3613
+msgid "Allow Select Multiple?"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3658
+#: includes/class-cbxmcratingreview-helper.php:3706
+#: widgets/cbxmcratingreviewlratings/views/admin.php:35
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:36
+msgid "Untitled Form"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-helper.php:3661
+#: includes/class-cbxmcratingreview-helper.php:3709
+#: includes/class-cbxmcratingreview-rating-forms.php:56
+msgid "(Default)"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:43
+#: includes/class-cbxmcratingreview-review-logs.php:71
+msgid "Edit Post"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:43
+msgid " (Edit)"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:75
+msgid "Visit Post"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:105
+msgid "View All"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:146
+#: includes/class-cbxmcratingreview-review-logs.php:311
+msgid "ID"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:147
+#: includes/class-cbxmcratingreview-review-logs.php:312
+msgid "Form"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:148
+#: includes/class-cbxmcratingreview-review-logs.php:313
+#: templates/rating-review-editform.php:112
+#: templates/rating-review-user-dashboard.php:63
+#: templates/admin/admin-rating-review-review-log-edit.php:121
+#: templates/admin/admin-rating-review-review-log-view.php:128
+msgid "Post"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:149
+msgid "Article"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:150
+msgid "Average"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:151
+msgid "Total"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:152
+#: includes/class-cbxmcratingreview-review-logs.php:320
+#: templates/rating-review-editform.php:104
+#: templates/admin/admin-rating-review-review-log-edit.php:113
+#: templates/admin/admin-rating-review-review-log-view.php:119
+msgid "Created"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:153
+msgid "Modified"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-avg-logs.php:352
+msgid ""
+"No rating average found. Please change your search criteria for better "
+"result."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:59
+msgid "Edit Form"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:157
+#: widgets/cbxmcratingreviewlratings/views/admin.php:21
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:21
+msgid "Title"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:158
+msgid "Form ID"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:159
+#: includes/class-cbxmcratingreview-review-logs.php:324
+#: templates/rating-review-user-dashboard.php:67
+#: templates/admin/admin-rating-review-review-log-edit.php:279
+#: templates/admin/admin-rating-review-review-log-view.php:245
+msgid "Status"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:160
+msgid "Post Types"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:161
+msgid "Auto Integration"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-rating-forms.php:444
+msgid "No form found. Please change your search criteria for better result."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:39
+#: templates/rating-review-user-dashboard.php:105
+#: templates/rating-review-user-dashboard.php:109
+msgid "View Review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:39
+#: templates/admin/admin-rating-review-review-log-edit.php:49
+#: templates/admin/admin-rating-review-review-log-view.php:283
+#: templates/admin/admin-rating-review-review-log-view.php:284
+msgid "Edit Review"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:39
+#: templates/rating-review-user-dashboard.php:144
+msgid "Edit"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:66
+#: templates/admin/admin-rating-review-review-log-view.php:98
+msgid "Untitled article"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:91
+msgid "Edit User"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:165
+#, php-format
+msgid "Review Heading: %s"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:165
+msgid "(details)"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:314
+msgid "User"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:315
+#: templates/rating-review-reviews-list-filter.php:38
+msgid "Score"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:316
+#: widgets/cbxmcratingreviewlratings/views/admin.php:81
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:84
+msgid "Post Type"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:317
+#: templates/rating-review-user-dashboard.php:65
+msgid "Headline"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:318
+#: templates/rating-review-user-dashboard.php:66
+#: templates/admin/admin-rating-review-review-log-view.php:197
+msgid "Comment"
+msgstr ""
+
+#: includes/class-cbxmcratingreview-review-logs.php:637
+msgid "No review found. Please change your search criteria for better result."
+msgstr ""
+
+#: includes/class-cbxmcratingreview-setting.php:533
+msgid "Choose File"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:37
+msgid "Questions"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:38
+msgid ""
+"Questions are optional. Each question can be set enabled or disabled, "
+"required. Multiple types of questions including Radio, Checkbox, Text, "
+"Textarea and more."
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:49
+msgid "Question Title(Click to Edit)"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:50
+msgid "Controls"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:51
+msgid "Field Type"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:52
+msgid "Field Preview (Click to Edit)"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:53
+msgid "Actions"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:72
+msgid "Info: Unlimited Question available in pro version."
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:104
+msgid "Custom Criterias"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:104
+msgid "This field is required"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewadmin-helper.php:166
+msgid "Click to configure rating stars"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:22
+#: includes/class-cbxmcratingreviewquestion-helper.php:50
+#: includes/class-cbxmcratingreviewquestion-helper.php:76
+#: includes/class-cbxmcratingreviewquestion-helper.php:109
+#: includes/class-cbxmcratingreviewquestion-helper.php:162
+#: includes/class-cbxmcratingreviewquestion-helper.php:227
+#: includes/class-cbxmcratingreviewquestion-helper.php:299
+msgid "Untitled Question!"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:31
+#: includes/class-cbxmcratingreviewquestion-helper.php:57
+#: includes/class-cbxmcratingreviewquestion-helper.php:85
+msgid "Placeholder Text"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:87
+msgid "Minimum Value"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:89
+msgid "Maximum Value"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:91
+msgid "Step Value"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:139
+#: includes/class-cbxmcratingreviewquestion-helper.php:203
+#: includes/class-cbxmcratingreviewquestion-helper.php:244
+#: includes/class-cbxmcratingreviewquestion-helper.php:277
+#: includes/class-cbxmcratingreviewquestion-helper.php:565
+#: includes/class-cbxmcratingreviewquestion-helper.php:608
+#: includes/class-cbxmcratingreviewquestion-helper.php:646
+#: includes/class-cbxmcratingreviewquestion-helper.php:677
+#: includes/class-cbxmcratingreviewquestion-helper.php:728
+#: includes/class-cbxmcratingreviewquestion-helper.php:787
+msgid "Untitled Option!"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:174
+#: includes/class-cbxmcratingreviewquestion-helper.php:308
+msgid " (Click any label to edit)"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:248
+msgid "Drop Down Options (Click any label to edit)"
+msgstr ""
+
+#: includes/class-cbxmcratingreviewquestion-helper.php:726
+msgid "Please select"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:313
+msgid "Reviewed"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:322
+msgid "Sorry, review not found or unpublished"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:357
+msgid "Sorry, review not found"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:714
+#: templates/rating-review-reviews-list.php:38
+msgid "No reviews yet!"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:716
+msgid "Load More"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:717
+msgid "Loading next page ..."
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:718
+msgid "Are you sure to delete your review, this processs can not be undone ?"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1160
+#, php-format
+msgid "Thank you for your rating and review. You rated avg %s"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1163
+msgid "It will be published after admin approval and you will be notified."
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1211
+msgid "Sorry! You already rated this or multiple reviews is not possible."
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1596
+msgid "Review delete is not possible. Please contact site authority."
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1598
+msgid "Review id is invalid"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1600
+msgid "You are not logged in and you don't own the review. Area you cheating?"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1619
+msgid "Review deleted successfully!"
+msgstr ""
+
+#: public/class-cbxmcratingreview-public.php:1621
+msgid "Review deleted failed!"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:32
+#: templates/rating-review-details-avg-rating.php:44
+#: templates/rating-review-details-avg-rating.php:111
+msgid " Review"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:32
+#: templates/rating-review-details-avg-rating.php:44
+#: templates/rating-review-details-avg-rating.php:111
+#: templates/rating-review-reviews-list-item.php:132
+#: templates/widgets/most_rated_posts.php:36
+#: templates/widgets/most_rated_posts.php:36
+msgid "Review"
+msgstr ""
+
+#: templates/rating-review-avg-rating.php:48
+#: templates/rating-review-details-avg-rating.php:64
+msgid "Stars"
+msgstr ""
+
+#: templates/rating-review-editform.php:43
+#: templates/admin/admin-rating-review-review-log-edit.php:39
+#, php-format
+msgid "Review Log ID: %d"
+msgstr ""
+
+#: templates/rating-review-editform.php:47
+msgid "Back to Dashboard"
+msgstr ""
+
+#: templates/rating-review-editform.php:123
+#: templates/admin/admin-rating-review-review-log-edit.php:132
+#: templates/admin/admin-rating-review-review-log-view.php:256
+msgid "Last Update"
+msgstr ""
+
+#: templates/rating-review-editform.php:139
+#: templates/admin/admin-rating-review-review-log-edit.php:157
+msgid "Edit Your Rating Experience"
+msgstr ""
+
+#: templates/rating-review-editform.php:175 templates/rating-review-form.php:71
+#: templates/admin/admin-rating-review-review-log-edit.php:193
+msgid "Rating missing!"
+msgstr ""
+
+#: templates/rating-review-editform.php:188 templates/rating-review-form.php:85
+#: templates/admin/admin-rating-review-review-log-edit.php:205
+#: templates/admin/admin-rating-review-review-log-view.php:191
+msgid "Review Headline"
+msgstr ""
+
+#: templates/rating-review-editform.php:192 templates/rating-review-form.php:89
+#: templates/admin/admin-rating-review-review-log-edit.php:209
+msgid "One line review"
+msgstr ""
+
+#: templates/rating-review-editform.php:200 templates/rating-review-form.php:95
+#: templates/admin/admin-rating-review-review-log-edit.php:214
+msgid "Your Review"
+msgstr ""
+
+#: templates/rating-review-editform.php:227
+#: templates/rating-review-reviews-list-item.php:144
+#: templates/admin/admin-rating-review-review-log-edit.php:240
+#: templates/admin/admin-rating-review-review-log-view.php:210
+msgid "Questions and Answers"
+msgstr ""
+
+#: templates/rating-review-editform.php:270
+#: templates/rating-review-form.php:166
+#: templates/admin/admin-rating-review-review-log-edit.php:298
+msgid ""
+"Please wait, we are taking account of your review. Do not close this window."
+msgstr ""
+
+#: templates/rating-review-editform.php:272
+#: templates/admin/admin-rating-review-review-log-edit.php:300
+msgid "Submit Edit"
+msgstr ""
+
+#: templates/rating-review-editform.php:281
+#: templates/admin/admin-rating-review-review-log-edit.php:309
+msgid "Sorry No data Found"
+msgstr ""
+
+#: templates/rating-review-form.php:49
+msgid "Rate Your Experience"
+msgstr ""
+
+#: templates/rating-review-form.php:124
+msgid "Please answer following questions"
+msgstr ""
+
+#: templates/rating-review-form.php:168
+msgid "Submit your review"
+msgstr ""
+
+#: templates/rating-review-review-delete-button.php:22
+msgid "Click to delete this review"
+msgstr ""
+
+#: templates/rating-review-review-delete-button.php:22
+msgid "Delete Review"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:41
+msgid "All Stars"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:44
+#, php-format
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/rating-review-reviews-list-filter.php:50
+msgid "All Positive"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:51
+msgid "All Critical"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:56
+#: widgets/cbxmcratingreviewlratings/views/admin.php:55
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:56
+msgid "Order By"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:60
+msgid "Most Recent"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:62
+#: widgets/cbxmcratingreviewlratings/views/admin.php:60
+msgid "Rating Score"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:64
+#: widgets/cbxmcratingreviewlratings/views/admin.php:66
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:69
+msgid "Order"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:68
+msgid "DESC"
+msgstr ""
+
+#: templates/rating-review-reviews-list-filter.php:70
+msgid "ASC"
+msgstr ""
+
+#: templates/rating-review-reviews-list-item.php:58
+#, php-format
+msgid "Review Created on: %s "
+msgstr ""
+
+#: templates/rating-review-reviews-list-item.php:73
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: templates/rating-review-reviews-list-more.php:19
+msgid "Load more"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:33
+#: templates/rating-review-user-dashboard.php:34
+msgid "Sorry, no reviews found."
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:54
+msgid "Your Reviews & Ratings"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:64
+msgid "Rating"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:68
+msgid "Action"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:85
+msgid "Untitled Article"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:129
+msgid "Unknown"
+msgstr ""
+
+#: templates/rating-review-user-dashboard.php:196
+msgid "Please login to access your ratings & reviews dashboard"
+msgstr ""
+
+#: templates/rating-review-user-rating-readonly.php:27
+msgid "You rated this "
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-avg-logs.php:28
+msgid "Average Log Manager"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-avg-logs.php:42
+msgid "Search Rating Avg Log"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:86
+#, php-format
+msgid "Rating Form Manager: Form ID - %d"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:90
+#, php-format
+msgid "Form created/updated successfully. Form Id: %d"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:108
+msgid "General Fields"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:109
+msgid "Custom Criteria"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:110
+msgid "Custom Questions"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-form-edit.php:293
+msgid "Save"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-forms.php:28
+msgid "Rating Forms Manager"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-forms.php:38
+msgid "Add New Form"
+msgstr ""
+
+#: templates/admin/admin-rating-review-rating-forms.php:43
+msgid "Search Forms"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:41
+#: templates/admin/admin-rating-review-review-log-view.php:285
+msgid "Back to Review Lists"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:104
+msgid "Reviewed By"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-edit.php:140
+#: templates/admin/admin-rating-review-review-log-view.php:264
+msgid "Last Update By"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:32
+msgid "Review Log Readonly View"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:109
+msgid "Written By"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:138
+msgid "Criteria Average"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-log-view.php:288
+msgid "No data Found"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-logs.php:28
+msgid "Rating Log Manager"
+msgstr ""
+
+#: templates/admin/admin-rating-review-review-logs.php:42
+msgid "Search Review Log"
+msgstr ""
+
+#: templates/admin/admin-settings-display.php:19
+msgid "CBX Multi Criteria Rating & Review: Setting"
+msgstr ""
+
+#: templates/widgets/lastest_ratings.php:40
+msgid " rated "
+msgstr ""
+
+#: templates/widgets/lastest_ratings.php:52
+#: templates/widgets/most_rated_posts.php:46
+msgid "No item found"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/class-cbxmcratingreviewlratings-widget.php:42
+msgid "CBXMCRR: Latest Ratings"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/class-cbxmcratingreviewlratings-widget.php:45
+msgid "Latest Ratings as per different filter"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/class-cbxmcratingreviewlratings-widget.php:95
+#: widgets/cbxmcratingreviewlratings/class-cbxmcratingreviewlratings-widget.php:175
+msgid "Latest Ratings"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/class-cbxmcratingreviewmrposts-widget.php:41
+msgid "CBXMCRR: Most Rated Posts"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/class-cbxmcratingreviewmrposts-widget.php:44
+msgid "Most rated posts as per different filter widget"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/class-cbxmcratingreviewmrposts-widget.php:94
+#: widgets/cbxmcratingreviewmrposts/class-cbxmcratingreviewmrposts-widget.php:181
+msgid "Most Rated Posts"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/views/admin.php:46
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:47
+msgid "Display Limit:"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/views/admin.php:58
+msgid "Rating ID"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/views/admin.php:59
+msgid "Article ID"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/views/admin.php:71
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:74
+msgid "Ascending"
+msgstr ""
+
+#: widgets/cbxmcratingreviewlratings/views/admin.php:73
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:76
+msgid "Descending"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:59
+msgid "Post ID"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:60
+msgid "Avg Rating"
+msgstr ""
+
+#: widgets/cbxmcratingreviewmrposts/views/admin.php:61
+msgid "Rating Count"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Multi Criteria Rating & Review System"
+msgstr ""
+
+#. Description of the plugin
+msgid "Multi Criteria Rating & Review System for WordPress"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://codeboxr.com/product/cbx-multi-criteria-rating-review-for-wordpress/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com"
+msgstr ""

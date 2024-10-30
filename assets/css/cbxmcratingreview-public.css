@@ -1,0 +1,310 @@
+@charset "UTF-8";
+
+.cbxmcratingreview_clearfix{
+	clear: both;
+	display: block;
+}
+.cbxmcratingreview_template_avg_rating_readonly{
+
+}
+.cbxmcratingreview_readonlyrating {
+
+}
+
+.cbxmcratingreview_readonlyrating i {
+	font-size: 16px;
+}
+
+.cbxmcratingreview_readonlyrating_info i{
+	font-style: normal !important;
+}
+
+.cbxmcratingreview_template_avg_rating_chart{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.cbxmcratingreview_template_avg_rating_chart p{
+	margin-bottom: 4px;
+	height: 20px;
+	background: #cccccc;
+	position: relative;
+}
+
+
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph{
+	text-align: left;
+	display: block;
+	height: 100%;
+	position: relative;
+}
+
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_score{
+	height: 100%;
+	display: block;
+	font-size: 12px;
+	line-height: 20px;
+	font-style: normal;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	color: #000;
+	background: #fff;
+	padding: 0 5px;
+
+}
+.cbxmcratingreview_template_avg_rating_chart_percentage{
+	height: 100%;
+	display: inline-block;
+	width: auto;
+	font-size: 12px;
+	line-height: 20px;
+	font-style: normal;
+	text-align: center;
+	vertical-align: middle;
+	position: absolute;
+	left: 5px;
+	top: 0;
+	color: #fff;
+}
+
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph_5{
+	background: #57bb8a;
+}
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph_4{
+	background: #9ace6a;
+}
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph_3{
+	background: #ffcf02;
+}
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph_2{
+	background: #ff9f02;
+}
+.cbxmcratingreview_template_avg_rating_chart p .cbxmcratingreview_template_avg_rating_chart_graph_1{
+	background: #ff6f31;
+}
+
+
+.cbxmcratingreview_review_list_items {
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+.cbxmcratingreview_review_list_item {
+	list-style: none;
+	font-size: 14px;
+	line-height: 18px;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+.cbxmcratingreview_review_list_item_heading{
+	font-size: 22px;
+	line-height: 30px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.cbxmcratingreview_review_list_item_headline{
+	font-weight: bold;
+}
+.cbxmcratingreview_review_list_item_score{
+
+}
+
+.cbxmcratingreview_review_list_item_score i{
+	font-style: normal;
+}
+
+.cbxmcratingreview_review_list_item p{
+	font-size: 14px;
+	line-height: 18px;
+}
+
+.cbxmcratingreview_review_list_item_notfound {
+	text-align: center;
+	font-weight: bold;
+}
+.cbxmcratingreview_review_list_item_notfound p.no_reviews_found{
+	margin-bottom: 0px !important;
+}
+
+.cbxmcratingreview_review_list_item_user {
+
+}
+
+.cbxmcratingreview_review_list_item_user_img {
+	width: 50px !important;
+	height: 50px !important;
+	display: inline-block;
+}
+
+.cbxmcratingreview_review_list_item_user_img img{
+	width: 50px !important;
+	height: 50px !important;
+}
+
+.cbxmcratingreview_review_list_item_user_img img {
+	max-width: 100%;
+	border-radius: 50%;
+}
+
+.cbxmcratingreview_review_list_item_user_name {
+	float: left;
+	display: inline-block;
+}
+
+.cbxmcratingreview_review_list_item_date{
+	float: right;
+	display: inline-block;
+
+}
+
+.cbxmcratingreview_review_list_item_date {
+
+}
+
+.cbxmcratingreview_review_list_item_comment {
+
+}
+
+
+
+
+.cbxmcratingreview-error {
+	color: #cc0000;
+}
+
+
+
+.cbxmcratingreview_review_list_item_video{
+	max-width: 500px;
+}
+
+.cbxmcratingreview_post_more_reviews{
+	text-align: center;
+	clear: both;
+}
+
+.cbxmcratingreview_post_more_reviews a{
+	padding: 10px 20px;
+}
+
+/*review toolbar*/
+.cbxmcratingreview_review_list_item_toolbar{
+	padding: 5px 0;
+}
+.cbxmcratingreview_review_list_item_toolbar_item{
+	margin-right: 10px;
+}
+.cbxmcratingreview_review_list_item_toolbar_item:last-child{
+	margin-right: 0px;
+}
+
+
+
+
+.cbxmcratingreview_search_wrapper{
+
+	margin-bottom: 20px;
+	width: 100%;
+	display: block;
+}
+.cbxmcratingreview_search_wrapper label{
+	display: none;
+}
+.cbxmcratingreview_search_wrapper .form-control{
+	float: left; display: inline-block;
+	margin-right: 20px;
+}
+
+.cbxmcratingreview_search_wrapper .form-control:last-child{
+	margin-right: 0px;
+}
+
+.cbxmcratingreview-review-delete{
+	color: black;
+	background: url("../images/icon_delete.png") no-repeat ;
+	margin-left: 10px;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	text-indent: -99999px;
+}
+
+.cbxmcratingreview-review-delete:hover{
+	background: url("../images/icon_delete_red_16.png") no-repeat ;
+	color: red;
+}
+
+.cbxmcratingreview-review-report{
+	color: black;
+	background: url("../images/flag-down.png") no-repeat ;
+	margin-left: 10px;
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	text-indent: -99999px;
+}
+
+.cbxmcratingreview-review-report:hover{
+	background: url("../images/flag-down-filled.png") no-repeat ;
+	color: red;
+}
+
+@media screen and (max-width: 767px) {
+	.cbxmcratingreview_review_list_item_video{
+		max-width: 90%;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.cbxmcratingreview_review_list_item_photo a img{
+		max-width: 100%;
+		height: auto;
+	}
+}
+
+.cbxmcratingreview_paginate_links{
+
+}
+
+.cbxmcratingreview_paginate_links li{
+	float: left; display: inline-block;
+}
+
+/*readonly criterias*/
+.cbxmcratingreview_review_readonly_criterias{
+	list-style: none;
+	margin: 0 0 20px 0;
+	padding: 0;
+}
+
+.cbxmcratingreview_review_readonly_criteria{
+	list-style: none;
+	display: inline-block;
+	margin: 0 20px 0px 0;
+	padding: 5px;
+	padding-left: 0px;
+}
+.cbxmcratingreview_review_readonly_criteria:last-child{
+	margin-right: 0px;
+}
+.cbxmcratingreview_review_readonly_criteria p{
+	margin-bottom: 5px;
+}
+/*end readonly criteria*/
+
+/*details avg*/
+.cbxmcratingreview_review_details_criteria{}
+.cbxmcratingreview_review_details_criteria .cbxmcratingreview_detailsrating_score{
+
+}
+.cbxmcratingreview_review_details_criteria .cbxmcratingreview_detailsrating_text{
+	width: 100%;
+	display: block;
+}
